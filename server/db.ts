@@ -5,7 +5,7 @@ const poolConfig: PoolConfig = {
   password: "sanaullah@129",
   host: "localhost",
   port: 5432,
-  database: "taskvault"
+  database: "task_vault"
 };
 
 const pool = new Pool(poolConfig);
